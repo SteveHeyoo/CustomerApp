@@ -7042,10 +7042,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\user\\documents\\visual studio 2017\\Projects\\CustomerApp\\ClassLibraryEntity\\ClassLibraryEntity.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\Visual Studio 2017\\Projects\\CustomerApp\\ClassLibraryEntity\\ClassLibraryEntity.csproj",
       "projectName": "ClassLibraryEntity",
-      "projectPath": "c:\\users\\user\\documents\\visual studio 2017\\Projects\\CustomerApp\\ClassLibraryEntity\\ClassLibraryEntity.csproj",
-      "outputPath": "c:\\users\\user\\documents\\visual studio 2017\\Projects\\CustomerApp\\ClassLibraryEntity\\obj\\",
+      "projectPath": "C:\\Users\\User\\Documents\\Visual Studio 2017\\Projects\\CustomerApp\\ClassLibraryEntity\\ClassLibraryEntity.csproj",
+      "outputPath": "C:\\Users\\User\\Documents\\Visual Studio 2017\\Projects\\CustomerApp\\ClassLibraryEntity\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"

@@ -1,0 +1,11 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\CustomerApp\CustomerAppBLL\bin\Debug\netcoreapp1.1\CustomerAppBLL.deps.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\CustomerApp\CustomerAppBLL\bin\Debug\netcoreapp1.1\CustomerAppBLL.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\CustomerApp\CustomerAppBLL\bin\Debug\netcoreapp1.1\CustomerAppBLL.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\CustomerApp\CustomerAppBLL\bin\Debug\netcoreapp1.1\ClassLibraryDAL.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\CustomerApp\CustomerAppBLL\bin\Debug\netcoreapp1.1\ClassLibraryEntity.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\CustomerApp\CustomerAppBLL\bin\Debug\netcoreapp1.1\ClassLibraryDAL.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\CustomerApp\CustomerAppBLL\bin\Debug\netcoreapp1.1\ClassLibraryEntity.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\CustomerApp\CustomerAppBLL\obj\Debug\netcoreapp1.1\CustomerAppBLL.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\CustomerApp\CustomerAppBLL\obj\Debug\netcoreapp1.1\CustomerAppBLL.AssemblyInfo.cs
+C:\Users\User\Documents\Visual Studio 2017\Projects\CustomerApp\CustomerAppBLL\obj\Debug\netcoreapp1.1\CustomerAppBLL.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\CustomerApp\CustomerAppBLL\obj\Debug\netcoreapp1.1\CustomerAppBLL.pdb

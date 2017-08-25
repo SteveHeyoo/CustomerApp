@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v1.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v1.1": {
+      "classlibrarydal/1.0.0": {
+        "dependencies": {
+          "ClassLibraryEntity": "1.0.0"
+        },
+        "runtime": {
+          "ClassLibraryDAL.dll": {}
+        }
+      },
+      "classlibraryentity/1.0.0": {
+        "runtime": {
+          "ClassLibraryEntity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "classlibrarydal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "classlibraryentity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

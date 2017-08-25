@@ -7083,10 +7083,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\user\\documents\\visual studio 2017\\Projects\\CustomerApp\\CustomerAppUI\\CustomerAppUI.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\Visual Studio 2017\\Projects\\CustomerApp\\CustomerAppUI\\CustomerAppUI.csproj",
       "projectName": "CustomerAppUI",
-      "projectPath": "c:\\users\\user\\documents\\visual studio 2017\\Projects\\CustomerApp\\CustomerAppUI\\CustomerAppUI.csproj",
-      "outputPath": "c:\\users\\user\\documents\\visual studio 2017\\Projects\\CustomerApp\\CustomerAppUI\\obj\\",
+      "projectPath": "C:\\Users\\User\\Documents\\Visual Studio 2017\\Projects\\CustomerApp\\CustomerAppUI\\CustomerAppUI.csproj",
+      "outputPath": "C:\\Users\\User\\Documents\\Visual Studio 2017\\Projects\\CustomerApp\\CustomerAppUI\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
@@ -7094,11 +7094,11 @@
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
-            "c:\\users\\user\\documents\\visual studio 2017\\Projects\\CustomerApp\\CustomerAppBLL\\CustomerAppBLL.csproj": {
-              "projectPath": "c:\\users\\user\\documents\\visual studio 2017\\Projects\\CustomerApp\\CustomerAppBLL\\CustomerAppBLL.csproj"
+            "C:\\Users\\User\\Documents\\Visual Studio 2017\\Projects\\CustomerApp\\CustomerAppBLL\\CustomerAppBLL.csproj": {
+              "projectPath": "C:\\Users\\User\\Documents\\Visual Studio 2017\\Projects\\CustomerApp\\CustomerAppBLL\\CustomerAppBLL.csproj"
             },
-            "c:\\users\\user\\documents\\visual studio 2017\\Projects\\CustomerApp\\ClassLibraryEntity\\ClassLibraryEntity.csproj": {
-              "projectPath": "c:\\users\\user\\documents\\visual studio 2017\\Projects\\CustomerApp\\ClassLibraryEntity\\ClassLibraryEntity.csproj"
+            "C:\\Users\\User\\Documents\\Visual Studio 2017\\Projects\\CustomerApp\\ClassLibraryEntity\\ClassLibraryEntity.csproj": {
+              "projectPath": "C:\\Users\\User\\Documents\\Visual Studio 2017\\Projects\\CustomerApp\\ClassLibraryEntity\\ClassLibraryEntity.csproj"
             }
           }
         }

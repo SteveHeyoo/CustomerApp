@@ -1,0 +1,9 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\CustomerApp\ClassLibraryDAL\bin\Debug\netcoreapp1.1\ClassLibraryDAL.deps.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\CustomerApp\ClassLibraryDAL\bin\Debug\netcoreapp1.1\ClassLibraryDAL.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\CustomerApp\ClassLibraryDAL\bin\Debug\netcoreapp1.1\ClassLibraryDAL.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\CustomerApp\ClassLibraryDAL\bin\Debug\netcoreapp1.1\ClassLibraryEntity.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\CustomerApp\ClassLibraryDAL\bin\Debug\netcoreapp1.1\ClassLibraryEntity.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\CustomerApp\ClassLibraryDAL\obj\Debug\netcoreapp1.1\ClassLibraryDAL.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\CustomerApp\ClassLibraryDAL\obj\Debug\netcoreapp1.1\ClassLibraryDAL.AssemblyInfo.cs
+C:\Users\User\Documents\Visual Studio 2017\Projects\CustomerApp\ClassLibraryDAL\obj\Debug\netcoreapp1.1\ClassLibraryDAL.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\CustomerApp\ClassLibraryDAL\obj\Debug\netcoreapp1.1\ClassLibraryDAL.pdb
